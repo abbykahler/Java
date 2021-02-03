@@ -1,0 +1,19 @@
+.body{
+	text-align: center;
+	font-size: 30px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 80px;
+	padding-left: 20px;
+	
+}
+#date{
+	color: blue;
+}
+#time {
+	color: green;
+}
+h3{ 
+	text-align:center;
+	
+}
