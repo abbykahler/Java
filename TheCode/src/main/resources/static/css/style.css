@@ -1,0 +1,14 @@
+.body {
+	padding-top: 60px;
+	text-align:center;
+} 
+ 
+ul {
+	padding-top: 150px;
+	margin-left: 500px;
+	font-size: 28px;
+}
+
+.span {
+	font: red;
+} 
